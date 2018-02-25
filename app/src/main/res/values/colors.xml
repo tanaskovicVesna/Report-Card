@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cc4d4d</color>
+    <color name="colorPrimaryDark">#933232</color>
+    <color name="colorView">#616161</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="lightPrimaryColor">#FFC107</color>
+    <color name="lightAssetColor">#e5a5a5</color>
+    <color name="lightColor">#BBDEFB</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="lightGray">#E0E0E0</color>
+    <color name="pupilsColor">#FFA726</color>
+</resources>
